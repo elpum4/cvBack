@@ -3,5 +3,6 @@
     "config_version": 20210101,
     "name": "app-cvback",
     "location": "US-VA",
-    "deployment_model": "GLOBAL"
+    "deployment_model": "GLOBAL",
+    "environment": "testing"
 }
